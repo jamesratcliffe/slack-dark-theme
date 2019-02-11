@@ -58,7 +58,7 @@ div.client_channels_list_container {
 }
 
 nav.p-channel_sidebar {
-   background-color: #222;
+   background-color: #292C34;
    color: var(--text);
 }
 
@@ -999,7 +999,7 @@ div.c-message.c-message--light.c-message--hover,
   .c-fullscreen_modal__body,
   .p-threads_footer__input .p-message_input_field {
     color: #fff !important;
-    background-color: #222 !important;
+    background-color: #292C34 !important;
   }
 
   .unread_group_header,
@@ -1015,7 +1015,7 @@ div.c-message.c-message--light.c-message--hover,
   .p-emoji_picker__input_container,
   .p-emoji_picker__sticky_header,
   .p-emoji_picker__heading {
-    background-color: #222 !important;
+    background-color: #292C34 !important;
   }
 
   button.c-button-unstyled.channel_option_item:hover{
@@ -1023,11 +1023,11 @@ div.c-message.c-message--light.c-message--hover,
   }
 
   .p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider,.p-message_pane .c-message_list:not(.c-virtual_list--scrollbar){
-      background:#222;
+      background:#292C34;
   }
 
   .p-message_pane .p-message_pane__top_banners:not(:empty)+div .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider:before,.p-message_pane .p-message_pane__top_banners:not(:empty)+div .c-message_list:not(.c-virtual_list--scrollbar):before{
-      box-shadow:0 32px #222;
+      box-shadow:0 32px #292C34;
   }
 
   span.c-message__body,
@@ -1040,7 +1040,7 @@ div.c-message.c-message--light.c-message--hover,
   }
 
   pre.special_formatting {
-    background-color: #222 !important;
+    background-color: #292C34 !important;
     color: #8f8f8f !important;
     border: solid;
     border-width: 1 px !important;
@@ -1051,18 +1051,18 @@ div.c-message.c-message--light.c-message--hover,
   }
 
   #client_body:not(.onboarding):not(.feature_global_nav_layout):before {
-  	background-color: #222 !important;
-  	border: 1px solid #222 !important;
+  	background-color: #292C34 !important;
+  	border: 1px solid #292C34 !important;
   	box-shadow: none !important;
   }
 
-  .ql-placeholder, 
-  .c-team__display-name, 
-  .c-unified_member__display-name, 
-  .c-usergroup__handle, 
-  .timezone_value, .timezone, 
-  .p-message_pane__foreword__description, 
-  .charcoal_grey, 
+  .ql-placeholder,
+  .c-team__display-name,
+  .c-unified_member__display-name,
+  .c-usergroup__handle,
+  .timezone_value, .timezone,
+  .p-message_pane__foreword__description,
+  .charcoal_grey,
   .sidebar_menu_list_item,
   .channel_purpose_text,
   .channel_link,
@@ -1091,7 +1091,7 @@ div.c-message.c-message--light.c-message--hover,
     margin-bottom: 20px !important;
   }
 
-  div[role="presentation"] { background-color: #222 !important; }
+  div[role="presentation"] { background-color: #292C34 !important; }
 
   .c-menu_item__li {
     background-color: #FFF !important;
